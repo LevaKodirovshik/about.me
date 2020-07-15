@@ -115,6 +115,7 @@
   }],
   "interests": [{
     "name": "Chess",    
-    "description": "I enjoy the game and play competitively at the national level https://ratings.fide.com/profile/5901618"
+    "description": "I enjoy the game and play competitively at the national level https://ratings.fide.com/profile/5901618",
+    "keywords": ["chess"]
   }]
 }
