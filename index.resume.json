@@ -1,0 +1,125 @@
+{
+  "basics": {
+    "name": "Lev Blaivas",
+    "label": "developer",
+    "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
+    "email": "lev@blaivas.net",    
+    "website": "http://blaivas.net",
+    "summary": "15 years experience in a wide range of projects from financial software and data mining tools, to high load web apps",
+    "phone": "(+357) 99 34 31 39",
+    "url": "http://blaivas.net",
+    "location": {      
+      "address":"Larnaca",
+      "postalCode":"6056",
+      "city": "Larnaca",
+      "countryCode": "CY",
+      "region": "Cyprus"
+    },
+    "profiles": [{
+      "network": "LinkedIn",
+      "username": "Lev Blaivas",
+      "url": "https://www.linkedin.com/in/lev-blaivas-b453a16"
+    },{
+      "network": "StackOverflow",
+      "username": "Lev",
+      "url": "https://stackoverflow.com/users/1379655/lev"
+    }]
+  },
+  "work": [{
+    "company": "Playtech",
+    "position": "Backend Team Coordinator",
+    "website": "https://www.playtech.com",
+    "startDate": "2016-11-01",    
+    "summary": "World's largest online gaming software supplier traded on the London Stock Exchange Main Market, offering cutting-edge, value added solutions to the industry's leading operators",
+    "highlights": [
+      "Coordinate all backend development efforts",
+      "Design and develop a highly usable, and performant cross-platform microservices framework for high load environments",
+      "Created multiple development tools used by other developers in the company",
+      "Contributed to multiple projects backed and frontend development"
+    ]
+  },
+  {
+    "company": "Dexterity Solutions Ltd",
+    "position": "Senior Software Developer",
+    "website": "http://www.dexterity.com.cy",
+    "startDate": "2011-01-01",
+    "endDate": "2016-11-01",
+    "summary": "Technology consulting, software development and business solutions",
+    "highlights": [
+      "Responsible for the full development cycle from analysis and specification to design and development to deployment and support",
+      "Oversaw and delivered multiple mission-critical projects to clients from a wide range of industries, including pharmaceutical, shipping, financial, law and others."
+    ]
+  },
+  {
+    "company": "AccountsTech",
+    "position": "Software Developer",
+    "website": "http://www.accountstech.com",
+    "startDate": "2008-01-01",
+    "endDate": "2011-01-01",
+    "summary": "Development and maintenance of accounting and POS software",
+    "highlights": [
+      "Developing missing-creitical accounting and POS software solutions"
+    ]
+  }],
+  "education": [{
+    "institution": "Maimonides State Classical Academy, Moscow",
+    "area": "Applied Mathematics and Information Technology",
+    "studyType": "Masters",
+    "startDate": "2006-01-01",
+    "endDate": "2010-01-01",
+    "gpa": "4.0"
+  },
+  {
+    "institution": "University of Nicosia",
+    "area": "Information Technology",
+    "studyType": "Bachelor",
+    "startDate": "2006-01-01",
+    "endDate": "2002-01-01",
+    "gpa": "4.0"
+  }],
+  "skills": [{
+    "name": "Backend Development",
+    "level": "Master",
+    "keywords": [
+      ".NET Core",
+      "C#",
+      "Java",
+      "GRPC",
+      "Docker",
+      "Rancher",
+      "Codefresh",
+      "SQL Server",
+      "MySQL",
+      "Oracle",
+      "MongoDB",
+      "Elastic",
+      "Redis"
+    ]
+  },
+  {
+    "name": "Web Development",
+    "level": "Intermediate ",
+    "keywords": [
+      "TypeScript",
+      "React",
+      "NodeJS"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  },
+  {
+    "language": "Russian",
+    "fluency": "Native speaker"
+  },
+  {
+    "language": "Greek",
+    "fluency": "Limited"
+  }],
+  "interests": [{
+    "name": "Chess",    
+    "description": "I enjoy the game and play competitively at the national level https://ratings.fide.com/profile/5901618",
+    "keywords": ["chess"]
+  }]
+}
