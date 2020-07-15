@@ -9,6 +9,8 @@
     "phone": "(+357) 99 34 31 39",
     "url": "http://blaivas.net",
     "location": {      
+      "address":"Larnaca",
+      "postalCode":"6056",
       "city": "Larnaca",
       "countryCode": "CY",
       "region": "Cyprus"
@@ -16,7 +18,7 @@
     "profiles": [{
       "network": "LinkedIn",
       "username": "Lev Blaivas",
-      "url": "https://www.linkedin.com/in/lev-blaivas-b453a16/"
+      "url": "https://www.linkedin.com/in/lev-blaivas-b453a16"
     },{
       "network": "StackOverflow",
       "username": "Lev",
@@ -64,14 +66,16 @@
     "area": "Applied Mathematics and Information Technology",
     "studyType": "Masters",
     "startDate": "2006-01-01",
-    "endDate": "2010-01-01"
+    "endDate": "2010-01-01",
+    "gpa": "4.0"
   },
   {
     "institution": "University of Nicosia",
     "area": "Information Technology",
     "studyType": "Bachelor",
     "startDate": "2006-01-01",
-    "endDate": "2002-01-01"
+    "endDate": "2002-01-01",
+    "gpa": "4.0"
   }],
   "skills": [{
     "name": "Backend Development",
