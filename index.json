@@ -43,7 +43,7 @@
     "summary": "Technology consulting, software development and business solutions",
     "highlights": [
       "Responsible for the full development cycle from analysis and specification to design and development to deployment and support",
-      "Oversaw and delivered multiple mission-critical projects to clients from a wide range of industries, including pharmaceutical, shipping, financial, law and others.",
+      "Oversaw and delivered multiple mission-critical projects to clients from a wide range of industries, including pharmaceutical, shipping, financial, law and others."
     ]
   },
   {
@@ -62,14 +62,14 @@
     "area": "Applied Mathematics and Information Technology",
     "studyType": "Masters",
     "startDate": "2006-01-01",
-    "endDate": "2010-01-01",
+    "endDate": "2010-01-01"
   },
   {
     "institution": "University of Nicosia",
     "area": "Information Technology",
     "studyType": "Bachelor",
     "startDate": "2006-01-01",
-    "endDate": "2002-01-01",
+    "endDate": "2002-01-01"
   }],
   "skills": [{
     "name": "Backend Development",
@@ -81,13 +81,13 @@
       "GRPC",
       "Docker",
       "Rancher",
-      "Codefresh"
+      "Codefresh",
       "SQL Server",
       "MySQL",
       "Oracle",
       "MongoDB",
       "Elastic",
-      "Redis",
+      "Redis"
     ]
   },
   {
@@ -96,7 +96,7 @@
     "keywords": [
       "TypeScript",
       "React",
-      "NodeJS",
+      "NodeJS"
     ]
   }],
   "languages": [{
